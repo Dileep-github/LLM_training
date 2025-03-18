@@ -1,6 +1,123 @@
+# Learning Plan for Large Language Models (LLMs)
+
+## Phase 1: Foundations of Mathematics and Linear Algebra
+
+```mermaid
+graph TD;
+    subgraph Phase1["Phase 1: Foundations"]
+        B1["Vectors and Matrices"]
+        B1 --> B11["Vector operations"]
+        B1 --> B12["Matrix operations"]
+        B1 --> B13["Eigenvalues & eigenvectors"]
+        B1 --> B14["SVD"]
+        
+        B2["Mathematics for ML"]
+        B2 --> B21["Calculus: Derivatives, Gradients"]
+        B2 --> B22["Probability: Bayes' Theorem"]
+        B2 --> B23["Optimization: Gradient Descent"]
+    end
+```
+
+## Phase 2: Introduction to Machine Learning
+
+```mermaid
+graph TD;
+    subgraph Phase2["🤖 Phase 2: Machine Learning"]
+        C1["Supervised Learning"]
+        C1 --> C11["Regression: Linear, Logistic"]
+        C1 --> C12["Classification: SVM, Decision Trees"]
+        
+        C2["Unsupervised Learning"]
+        C2 --> C21["Clustering: k-means"]
+        C2 --> C22["Dimensionality Reduction: PCA"]
+        
+        C3["Evaluation"]
+        C3 --> C31["Precision, Recall, F1-score"]
+        C3 --> C32["ROC-AUC"]
+        
+        C4["Basics of Neural Networks"]
+        C4 --> C41["Perceptron, Backpropagation"]
+    end
+```
+
+## Phase 3: Natural Language Processing (NLP)
+
+```mermaid
+graph TD;
+    subgraph Phase3["🗣️ Phase 3: Natural Language Processing (NLP)"]
+        D1["Text Preprocessing"]
+        D1 --> D11["Tokenization, Lemmatization"]
+        D1 --> D12["Stopword Removal, n-grams"]
+
+        D2["Word Embeddings"]
+        D2 --> D21["Word2Vec, GloVe"]
+        D2 --> D22["Contextual: BERT, ELMo"]
+
+        D3["Sequence Models"]
+        D3 --> D31["RNNs, LSTMs, GRUs"]
+
+        D4["Attention & Transformers"]
+        D4 --> D41["Self-Attention, Multi-Head Attention"]
+        D4 --> D42["Transformer Architecture"]
+    end
+```
+markdown
+## Phase 4: Deep Learning and Neural Networks
+
+```mermaid
+graph TD;
+    subgraph Phase4["🧠 Phase 4: Deep Learning"]
+        E1["Deep Neural Networks"]
+        E1 --> E11["Activation, Loss Functions"]
+        E1 --> E12["Regularization: Dropout, Batch Norm"]
+
+        E2["Convolutional Neural Networks"]
+        E2 --> E21["Applications in NLP"]
+
+        E3["Optimization"]
+        E3 --> E31["Adam, RMSprop, LR Scheduling"]
+
+        E4["Transfer Learning"]
+        E4 --> E41["Fine-Tuning Pre-trained Models"]
+
+        E5["Generative Models"]
+        E5 --> E51["VAEs, GANs"]
+    end
+```
+
+## Phase 5: Large Language Models (LLMs)
+
+```mermaid
+graph TD;
+    subgraph Phase5["🚀 Phase 5: Large Language Models (LLMs)"]
+        F1["Introduction to LLMs"]
+        F1 --> F11["GPT, BERT, T5 Overview"]
+        F1 --> F12["Pre-training & Fine-tuning"]
+
+        F2["Building LLMs"]
+        F2 --> F21["Data Collection"]
+        F2 --> F22["Model Architecture"]
+        F2 --> F23["Training Pipelines"]
+        
+        F3["Fine-Tuning"]
+        F3 --> F31["Domain-specific Tuning"]
+        F3 --> F32["LoRA, Adapters"]
+
+        F4["Mitigation Techniques"]
+        F4 --> F41["Prompt Engineering"]
+        F4 --> F42["RLHF"]
+        F4 --> F43["Fact-Checking & RAG"]
+
+        F5["Deployment & Scaling"]
+        F5 --> F51["Model Quantization"]
+        F5 --> F52["Serving in Production"]
+    end
+```
+ 
+
+
 To achieve your goal of learning about Large Language Models (LLMs) and acquiring the necessary knowledge and skills to build, fine-tune, and implement guardrails for LLMs, you've identified a solid sequence of topics. Below is a structured training plan with detailed subtopics, learning resources, and a suggested timeline. This plan assumes you are starting from scratch and will progressively build your expertise.
 
----
 
 ### **Phase 1: Foundations of Mathematics and Linear Algebra**
 **Duration:** 2-3 weeks  
