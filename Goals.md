@@ -1,3 +1,9 @@
+# Goals
+
+ - GenAI
+ - Softskills
+ - Usecases
+
 
 ## Softskills:
 
