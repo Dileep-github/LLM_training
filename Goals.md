@@ -9,6 +9,9 @@ graph TD;
         D["Project Pitching"] --> D1["How to pitch your project"]
         E["Public Speaking"] --> E1["How to speak in public or fearless stage speaking"]
     end
+
+```
+
 ### Presentation Skills
 
 ### Winning Stakeholders
