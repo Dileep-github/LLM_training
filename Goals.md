@@ -1,12 +1,8 @@
+```mermaid
 graph TD;
-    A[Soft Skills] --> B[Presentation Skills]
-    B --> B1[How to make impactful presentations]
-
-    A --> C[Winning Stakeholders]
-    C --> C1[How to win stakeholders]
-
-    A --> D[Project Pitching]
-    D --> D1[How to pitch your project]
-
-    A --> E[Public Speaking]
-    E --> E1[How to speak in public or fearless stage speaking]
+    subgraph Soft_Skills["Soft Skills"]
+        B["Presentation Skills"] --> B1["How to make impactful presentations"]
+        C["Winning Stakeholders"] --> C1["How to win stakeholders"]
+        D["Project Pitching"] --> D1["How to pitch your project"]
+        E["Public Speaking"] --> E1["How to speak in public or fearless stage speaking"]
+    end
