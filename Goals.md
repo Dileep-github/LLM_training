@@ -19,3 +19,13 @@ graph TD;
 ### Project Pitching
 
 ### Public Speaking
+
+## Usecases:
+
+### product
+
+### price 
+
+### supply chain
+
+### promotions
