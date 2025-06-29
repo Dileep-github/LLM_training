@@ -1,0 +1,2 @@
+- [Deep contexualized word representations](https://arxiv.org/pdf/1802.05365)
+- [BERT-Pretraining of deep bidirectional Transformers of Language understanding](https://arxiv.org/pdf/1810.04805)

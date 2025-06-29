@@ -1,0 +1,5 @@
+- [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Transformer explainder](https://poloclub.github.io/transformer-explainer/)
+- [Build better deeplearning models with Batch and Layer normalization](https://www.pinecone.io/learn/batch-layer-normalization/)
+- [Layer normalization-Paper](https://arxiv.org/pdf/1607.06450)
